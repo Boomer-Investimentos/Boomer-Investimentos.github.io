@@ -5,7 +5,7 @@ function Hero() {
   return (
     <Container className='my-5 text-start'>
       <Row className="d-flex align-items-center">
-        <Col>
+        <Col xs={12} md={6} className="mb-4 mb-md-0">
           <h1>A maioria das pessoas não quer se procupar com investimentos. <br />E sinceramente, nós também não.</h1>
           <p>O que as pessoas querem — de verdade — é alcançar seus objetivos:
             fazer aquela viagem, garantir a escola dos filhos, construir patrimônio, ter liberdade.
@@ -25,7 +25,7 @@ function Hero() {
             Só um plano financeiro real, pensado de verdade, com quem entende e se importa.
           </p>
         </Col>
-        <Col>
+        <Col xs={12} md={6}>
           <Image src={heroImage} alt="Imagem de mulher" fluid />
         </Col>
       </Row>

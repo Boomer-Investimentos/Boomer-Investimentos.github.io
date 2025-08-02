@@ -12,10 +12,10 @@ function Main() {
       <div className={styles.contactInfo}>
         <Container>
           <Row className="align-items-center">
-            <Col>
+            <Col xs={12} md={6} className='mb-4 mb-md-0'>
               <LocationMap />
             </Col>
-            <Col>
+            <Col xs={12} md={6}>
               <div className={styles.contactText}>
                 <h3>Contate-nos</h3>
                 <br />
@@ -45,7 +45,7 @@ function Main() {
             <Image src={bsmLogo} alt="Logo da BSM" fluid /></Col>
         </Row>
       </Container>
-      <div className={styles.outerOuvidoriaDiv}>
+      <div className="bg-light p-3 p-lg-5 w-100 mx-auto" style={{ maxWidth: '500px' }}>
         <Container>
           <div className={styles.ouvidoria}>
             <h2 className='text-center'>OUVIDORIA</h2>
