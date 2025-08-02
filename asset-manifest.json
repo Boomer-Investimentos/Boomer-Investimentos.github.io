@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/boomerinvestimentos.com.br/static/css/main.e3a6cf9c.css",
-    "main.js": "/boomerinvestimentos.com.br/static/js/main.e8714399.js",
-    "static/media/hero-img.webp": "/boomerinvestimentos.com.br/static/media/hero-img.63108b264fcc5396d7ed.webp",
-    "static/media/cvm-logo.webp": "/boomerinvestimentos.com.br/static/media/cvm-logo.137edad0830ad2c27243.webp",
-    "static/media/logo_ancord.webp": "/boomerinvestimentos.com.br/static/media/logo_ancord.0784b6f89d8156d37897.webp",
-    "static/media/banner_boomer_warren_white.png": "/boomerinvestimentos.com.br/static/media/banner_boomer_warren_white.15d4ffd22cea93007a43.png",
-    "static/media/banner_boomer_warren_black_.webp": "/boomerinvestimentos.com.br/static/media/banner_boomer_warren_black_.f54239e7042cd7afe3c3.webp",
-    "static/media/logo_bsm_supervisao_de_mercados.webp": "/boomerinvestimentos.com.br/static/media/logo_bsm_supervisao_de_mercados.4e56f06bd5f9a20a4a4c.webp",
-    "index.html": "/boomerinvestimentos.com.br/index.html",
-    "main.e3a6cf9c.css.map": "/boomerinvestimentos.com.br/static/css/main.e3a6cf9c.css.map",
-    "main.e8714399.js.map": "/boomerinvestimentos.com.br/static/js/main.e8714399.js.map"
+    "main.css": "/www.boomerinvestimentos.com.br/static/css/main.e3a6cf9c.css",
+    "main.js": "/www.boomerinvestimentos.com.br/static/js/main.22c5c481.js",
+    "static/media/hero-img.webp": "/www.boomerinvestimentos.com.br/static/media/hero-img.63108b264fcc5396d7ed.webp",
+    "static/media/cvm-logo.webp": "/www.boomerinvestimentos.com.br/static/media/cvm-logo.137edad0830ad2c27243.webp",
+    "static/media/logo_ancord.webp": "/www.boomerinvestimentos.com.br/static/media/logo_ancord.0784b6f89d8156d37897.webp",
+    "static/media/banner_boomer_warren_white.png": "/www.boomerinvestimentos.com.br/static/media/banner_boomer_warren_white.15d4ffd22cea93007a43.png",
+    "static/media/banner_boomer_warren_black_.webp": "/www.boomerinvestimentos.com.br/static/media/banner_boomer_warren_black_.f54239e7042cd7afe3c3.webp",
+    "static/media/logo_bsm_supervisao_de_mercados.webp": "/www.boomerinvestimentos.com.br/static/media/logo_bsm_supervisao_de_mercados.4e56f06bd5f9a20a4a4c.webp",
+    "index.html": "/www.boomerinvestimentos.com.br/index.html",
+    "main.e3a6cf9c.css.map": "/www.boomerinvestimentos.com.br/static/css/main.e3a6cf9c.css.map",
+    "main.22c5c481.js.map": "/www.boomerinvestimentos.com.br/static/js/main.22c5c481.js.map"
   },
   "entrypoints": [
     "static/css/main.e3a6cf9c.css",
-    "static/js/main.e8714399.js"
+    "static/js/main.22c5c481.js"
   ]
 }
