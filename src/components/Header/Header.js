@@ -1,7 +1,8 @@
 import styles from './Header.module.css';
 import whiteBoomerWarrenBannner from '../../assets/imgs/banner_boomer_warren_white.png';
+import { Link } from 'react-router';
 
-import { Nav, Container, Navbar, Image, Link } from 'react-bootstrap';
+import { Nav, Container, Navbar, Image } from 'react-bootstrap';
 function Header() {
   return (
     <Navbar sticky='top' bg='dark' className='py-1'>
