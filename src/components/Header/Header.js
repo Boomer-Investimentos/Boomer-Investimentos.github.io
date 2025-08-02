@@ -12,7 +12,7 @@ function Header() {
         </Navbar.Brand>
         <Nav>
           <Nav.Link className={styles.link} href="/">Home</Nav.Link>
-          <Nav.Link className={styles.link} href="team">Nossa Equipe</Nav.Link>
+          <Nav.Link className={styles.link} href="/team">Nossa Equipe</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
