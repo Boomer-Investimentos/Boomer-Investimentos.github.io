@@ -1,7 +1,7 @@
 import styles from './Header.module.css';
 import whiteBoomerWarrenBannner from '../../assets/imgs/banner_boomer_warren_white.png';
 
-import { Nav, Container, Navbar, Image } from 'react-bootstrap';
+import { Nav, Container, Navbar, Image, Link } from 'react-bootstrap';
 function Header() {
   return (
     <Navbar sticky='top' bg='dark' className='py-1'>
@@ -11,8 +11,8 @@ function Header() {
           <span className={styles.boomerTextHeader}>Boomer Investimentos</span>
         </Navbar.Brand>
         <Nav>
-          <Nav.Link className={styles.link} href="/">Home</Nav.Link>
-          <Nav.Link className={styles.link} href="/team">Nossa Equipe</Nav.Link>
+          <Nav.Link as={Link} className={styles.link} to="/">Home</Nav.Link>
+          <Nav.Link as={Link} className={styles.link} to="/team">Nossa Equipe</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
